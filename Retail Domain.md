@@ -20,24 +20,6 @@ Future State :
 Gap:
    Factors affecting customer churns.
 
-                  Factors Affecting
-There are two factors
- 1 Internal
- 2 External
-
-In Internal there are 2 category 
-
-A Product =Quantity
-           Quality
-           Price
-           Variety
-
-B operation Service = Supply
-                      Inventory
+ ![banking domain](https://github.com/user-attachments/assets/7b0dcade-9ca1-4fc2-8529-0069841e7a41)
 
 
-In External there are 3 category
-
-I    Govt Policy
-II   Competitions
-III  Market Trends
